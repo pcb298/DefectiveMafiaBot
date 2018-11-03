@@ -60,7 +60,7 @@ Not yet started:
 
 
 
-todo
+
 
 Bot Functions:
 1.	Database of Discord and game server users, register on Discord as a user and then register other accounts for access to other servers 
